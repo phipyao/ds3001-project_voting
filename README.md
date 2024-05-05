@@ -5,3 +5,5 @@ Link to shapefiles for VA boundaries: https://vgin.vdem.virginia.gov/datasets/77
 Get the "Shapefile Download (Clipped to VIMS shoreline)" version, halfway down the page.
 
 For national macroeconomic data, the best source would be FRED: https://fred.stlouisfed.org/
+
+https://docs.google.com/document/d/1yaEOsboCXUAqS5AFxhDYLHUteewgmkYSCvQSxytVYtU/edit?usp=sharing
